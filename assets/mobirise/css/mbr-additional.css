@@ -2101,12 +2101,32 @@ body {
   color: #ff7000 !important;
 }
 .cid-qRHiMejSwQ {
-  padding-top: 135px;
-  padding-bottom: 90px;
   background-image: url("../../../assets/images/1inspector-1000x667.jpg");
 }
 .cid-qRHiMejSwQ H1 {
   color: #ffffff;
+}
+.cid-qTL43S5BvY {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #1d44b8;
+}
+.cid-qTL43S5BvY .mbr-text {
+  color: #ffffff;
+}
+.cid-qTL43S5BvY h4 {
+  text-align: center;
+}
+.cid-qTL43S5BvY p {
+  text-align: center;
+}
+.cid-qTL43S5BvY .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-qTL43S5BvY .card-title,
+.cid-qTL43S5BvY .card-img {
+  color: #f9f295;
 }
 .cid-qRHrdGdGrn {
   padding-top: 15px;
