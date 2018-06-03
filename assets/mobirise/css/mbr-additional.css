@@ -565,9 +565,6 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 #scrollToTop a i:before {
   content: '';
   position: absolute;
@@ -7982,10 +7979,7 @@ body {
   }
 }
 .cid-qTE5ZU8sAa {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #1d44b8;
-  background: linear-gradient(45deg, #1d44b8, #879a9f);
+  background-color: #ffffff;
 }
 @media (min-width: 992px) {
   .cid-qTE5ZU8sAa .mbr-figure {
@@ -8001,6 +7995,9 @@ body {
   .cid-qTE5ZU8sAa .mbr-text {
     text-align: center;
   }
+}
+.cid-qTE5ZU8sAa H1 {
+  color: #1d44b8;
 }
 .cid-qTE80s7XrB {
   padding-top: 90px;
@@ -8549,6 +8546,11 @@ body {
 }
 .cid-qTKWw3py9L P {
   text-align: center;
+}
+.cid-qTSGIZuk2W {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
 .cid-qRwf3ZhpsJ .navbar {
   padding: .5rem 0;
@@ -9123,6 +9125,11 @@ body {
 .cid-qTJzZ4z361 .mbr-crt-title {
   color: #f7ed4a;
 }
+.cid-qTSHjBpILs {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
 .cid-qRwf3ZhpsJ .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -9572,6 +9579,11 @@ body {
   .cid-qTKQUtQmwL .image-block {
     width: 100% !important;
   }
+}
+.cid-qTSHGFnUAa {
+  padding-top: 75px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
 .cid-qRFZMJgGFH {
   padding-top: 30px;
@@ -10342,9 +10354,9 @@ body {
 .cid-qTF9peCGnh .mbr-gallery-item > div > span {
   color: #000000;
 }
-.cid-qTFcPl5vxH {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-qTSH9U2SOm {
+  padding-top: 15px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qRwf3ZhpsJ .navbar {
@@ -10886,6 +10898,11 @@ body {
     padding-top: 3rem;
   }
 }
+.cid-qTSHslmGRj {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
 .cid-qRwf3ZhpsJ .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -11317,7 +11334,7 @@ body {
 }
 .cid-qTJW3I95xn {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 90px;
   background: #ffffff;
 }
 .cid-qTJW3I95xn .video-block {
@@ -11371,4 +11388,9 @@ body {
 }
 .cid-qTKf9KwMCR DIV {
   color: #000000;
+}
+.cid-qTSHyqWCw9 {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
